@@ -1,5 +1,8 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 def main():
-    print("Hello from testing!")
+    print("Hello")
 
 
 if __name__ == "__main__":
